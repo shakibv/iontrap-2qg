@@ -43,9 +43,9 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 IonTrap-2QG adapts and expands the `QSD 1.3.5` library and uses the `cnpy` and `differential-evolution` libraries.
 
 ### QSD
-`QSD` © 1996-2004 Todd Brun and Rüdiger Schack, is described in Comput.Phys.Commun. 102 (1997) 210-228.
+`QSD` © 1996-2004 Todd Brun and Rüdiger Schack, is described in [Comput. Phys. Commun. 102 (1997) 210-228](https://doi.org/10.1016/S0010-4655(97)00019-2).
 <details>
-<summary>Copyright (C) 1995  Todd Brun and Ruediger Schack</summary>
+<summary>Copyright (C) 1995, Todd Brun and Ruediger Schack</summary>
 
 ```text
 Copyright (C) 1995  Todd Brun and Ruediger Schack
